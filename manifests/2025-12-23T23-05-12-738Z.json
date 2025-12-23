@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "project": "varichoba",
+  "buildId": "2025-12-23T23-05-12-738Z",
+  "minecraft": {
+    "loader": "paper",
+    "version": "1.21.11"
+  },
+  "world": {
+    "mode": "generated",
+    "seed": "",
+    "name": "world"
+  },
+  "plugins": [
+  ],
+  "configs": [
+    {
+      "path": "config/paper-global.yml",
+      "sha256": "0f534329ee34669fb2f64e2ed59023e6f0c4ac2e40afcb5bd8057193fcc565ca"
+    },
+    {
+      "path": "server.properties",
+      "sha256": "ef88fa89e93b733341ed3feed997ec7b10b190d099568ae8f84b21f2360830e5"
+    }
+  ],
+  "artifact": {
+    "zipPath": "dist/varichoba-2025-12-23T23-05-12-738Z.zip",
+    "sha256": "&lt;pending&gt;",
+    "size": 0
+  },
+  "repository": {
+    "url": "https://github.com/verziondev/varichoba",
+    "fullName": "verziondev/varichoba",
+    "defaultBranch": "main",
+    "commit": ""
+  }
+}
+

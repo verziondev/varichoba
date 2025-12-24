@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "project": "varichoba",
+  "buildId": "2025-12-24T00-10-13-990Z",
+  "minecraft": {
+    "loader": "paper",
+    "version": "1.21.11"
+  },
+  "world": {
+    "mode": "generated",
+    "seed": "",
+    "name": "world"
+  },
+  "plugins": [
+    {
+      "id": "worldedit",
+      "version": "7.3.18-beta-01",
+      "sha256": "fd3454af01e18e7c81b825724b7e085b3bc82f3efd4616634ba9360cbc24524d",
+      "provider": "custom",
+      "cachePath": "data/cache/plugins/worldedit/7.3.18-beta-01/worldedit-bukkit-7.3.18-beta-01.jar",
+      "minecraftVersionMin": "1.21.3",
+      "minecraftVersionMax": "1.21.11",
+      "source": {
+  "provider": "custom",
+  "slug": "worldedit",
+  "downloadUrl": "https://cdn.modrinth.com/data/1u6JkXh5/versions/qYMNQYjH/worldedit-bukkit-7.3.18-beta-01.jar",
+  "minecraftVersionMin": "1.21.3",
+  "minecraftVersionMax": "1.21.11",
+  "cachePath": "data/cache/plugins/worldedit/7.3.18-beta-01/worldedit-bukkit-7.3.18-beta-01.jar"
+},
+      "catalog": {
+  "cachedAt": "2025-12-24T00:10:14.216Z",
+  "lastUsedAt": "2025-12-24T00:10:14.216Z",
+  "artifactFileName": "worldedit-bukkit-7.3.18-beta-01.jar"
+}
+    },
+    {
+      "id": "worldguard",
+      "version": "7.0.15-beta-01",
+      "sha256": "f4b7a0718c3809296d8906cd7737b781525a81789dd9e643fe37a5b928cfce2f",
+      "provider": "custom",
+      "cachePath": "data/cache/plugins/worldguard/7.0.15-beta-01/worldguard-bukkit-7.0.15-beta-01.jar",
+      "minecraftVersionMin": "1.21.10",
+      "minecraftVersionMax": "1.21.11",
+      "source": {
+  "provider": "custom",
+  "slug": "worldguard",
+  "downloadUrl": "https://cdn.modrinth.com/data/DKY9btbd/versions/Cm1YG6Lt/worldguard-bukkit-7.0.15-beta-01.jar",
+  "minecraftVersionMin": "1.21.10",
+  "minecraftVersionMax": "1.21.11",
+  "cachePath": "data/cache/plugins/worldguard/7.0.15-beta-01/worldguard-bukkit-7.0.15-beta-01.jar"
+},
+      "catalog": {
+  "cachedAt": "2025-12-24T00:10:14.268Z",
+  "lastUsedAt": "2025-12-24T00:10:14.267Z",
+  "artifactFileName": "worldguard-bukkit-7.0.15-beta-01.jar"
+}
+    },
+    {
+      "id": "QuickSortX",
+      "version": "1.4",
+      "sha256": "3d0e8aa74e4c0fee2dea2051de9b2b798444f66621dbb3c4450b49750bde85f9",
+      "provider": "custom",
+      "cachePath": "data/cache/plugins/QuickSortX/1.4/QuickSortX-1.4.jar",
+      "minecraftVersionMin": "1.21.0",
+      "minecraftVersionMax": "1.21.11",
+      "source": {
+  "provider": "custom",
+  "slug": "QuickSortX",
+  "downloadUrl": "https://cdn.modrinth.com/data/yvXTOE2f/versions/2OwvMcA3/QuickSortX-1.4.jar",
+  "minecraftVersionMin": "1.21.0",
+  "minecraftVersionMax": "1.21.11",
+  "cachePath": "data/cache/plugins/QuickSortX/1.4/QuickSortX-1.4.jar"
+},
+      "catalog": {
+  "cachedAt": "2025-12-24T00:10:14.679Z",
+  "lastUsedAt": "2025-12-24T00:10:14.679Z",
+  "artifactFileName": "QuickSortX-1.4.jar"
+}
+    }
+  ],
+  "configs": [
+    {
+      "path": "plugins/WorldGuard/worlds/world/regions.yml",
+      "sha256": "82c4bb5c7011ba2792526dbadb90dc81f9ca0cb0e7944cff0f2b61bffd228e6b"
+    },
+    {
+      "path": "server.properties",
+      "sha256": "30984198247262b772cd4e3915dd3bf711a42c3405f1ec9a3200d11a22e7a21c"
+    },
+    {
+      "path": "config/paper-global.yml",
+      "sha256": "1086d98108e97b556f89f552001f69e9b831cc9df1b9399d624baea7f0bd1da3"
+    }
+  ],
+  "artifact": {
+    "zipPath": "dist/varichoba-2025-12-24T00-10-13-990Z.zip",
+    "sha256": "1db15bb2275ab95241dda83255cfe95028b0435b783e78a41109f9483cb2041f",
+    "size": 7164667
+  },
+  "repository": {
+    "url": "https://github.com/verziondev/varichoba",
+    "fullName": "verziondev/varichoba",
+    "defaultBranch": "main",
+    "commit": ""
+  }
+}
+
